@@ -1,0 +1,74 @@
+Channel: #comms-it (Katabatic Station chat, aurora/wiki-01)
+Export: 2026-10-14, selected days. Times are station local (UTC+13 at this
+time of year; the station keeps NZ time).
+
+---- 2026-02-19 ----
+[16:41] icebox-alerts: ALERT bay 3 SMART reallocated_sector_ct=212 (threshold 100). Ticket KAT-0396 opened.
+[16:55] it-winter: that's the bay 3 drive Theo said to watch. 212 and climbing
+[16:56] mtsai: the inventory sheet says there's a spare on the shelf
+[16:58] it-winter: yep, I see it, antistatic bag above the rack, labelled SPARE
+[16:59] it-winter: going to let it ride tonight and swap tomorrow when I'm fresh
+
+---- 2026-02-20 ----
+[06:38] it-winter: ups-comms-1 web card is hung, console too. going to find its breaker in P2 first so I'm not hunting for it with everything dark, then do the shutdown and power cycle from the runbook
+[06:51] bhaldane: whoever opened IT-UPS in P2 at 0640: that is the galley walk-in freezer. it has been mislabelled since Dana's time. the comms UPS is on the breaker marked SPARE 4
+[06:52] it-winter: ...that was me. the runbook says IT-UPS.
+[06:52] bhaldane: the runbook is wrong. closing it now. Luis would like a word
+[06:53] it-winter: so sorry
+[06:58] lferreira: 12 minutes. the freezer was open to the room for 12 minutes. nothing thawed. this time.
+[07:04] it-winter: I will relabel P2 today and fix the runbook
+[07:06] bhaldane: don't relabel anything, I'll do it properly with the tracer. leave the runbook until I confirm
+[07:30] it-winter: UPS card came back on its own after a console reset, for the record. never needed the breaker at all
+[09:15] it-winter: 2 tickets filed on myself
+
+---- 2026-02-21 ----
+[08:02] it-winter: pulled bay 3 (WX-7731) and put the shelf spare in. rebuild running, says ~20h
+[08:03] mtsai: nice. want coffee
+
+---- 2026-02-22 ----
+[03:31] nightly-bot: digest 2026-02-22 | icebox: 4/4 online, SMART PASSED x4, rebuild 97% | ups-comms-1: battery 100%, est. runtime 24 min | tickets overdue: 0 | inventory cross-check: skipped (not implemented)
+[07:40] it-winter: rebuild finished overnight, array healthy, closing KAT-0396. old drive is in the bag on the shelf
+[07:44] mtsai: one spare in, one bad drive out, circle of life
+[14:20] rachebe: reminder for everyone: comms schedule for March is up in the sheet. Tuesday 0200-0600 is the bulk sync slot, Saturday 1900 is movie night sync. personal allowance unchanged
+[14:22] it-winter: linking it from the wiki front page
+
+---- 2026-02-23 ----
+[09:40] jpike: there is a penguin in the boot room
+[09:41] it-winter: not IT
+[09:41] jpike: it is standing on the spare switch box
+[09:42] it-winter: still not IT. file a ticket
+[09:50] jpike: filed. KAT-0403. I have named it Ticket
+[09:51] lferreira: Ticket has been fed
+[09:52] rachebe: Ticket has NOT been fed, Luis, because feeding wildlife is a Treaty violation and I would have to write a report
+[09:52] lferreira: Ticket has not been fed
+[10:05] it-winter: for the record the spare switch has now been stood on by a penguin and still never powered on
+
+---- 2026-07-13 ----
+[11:40] it-winter: on the roof with Mei, VSAT-1 realign after Thursday's storm
+[12:35] mtsai: peaked. Es/No 9.1. beacon level on the runbook frequency is weirdly low though, I ended up peaking on the data carrier
+[12:36] it-winter: 12.199?
+[12:37] mtsai: yeah. odd. they shuffle the southern beam sometimes and tell the manager, not us. data carrier is fine, we're up
+[12:38] it-winter: adding it to the pile
+
+---- 2026-09-14 ----
+[10:05] it-winter: @rachebe is the icebox spare drive on the 10/28 manifest? Theo's handover says it was back-ordered to that flight
+[10:30] rachebe: checking. why, is something wrong with icebox
+[10:31] it-winter: no, healthy since the Feb swap. just want the spare on station before I hand over
+[10:32] mtsai: wait, which spare did you use in Feb
+[10:33] it-winter: the one on the shelf?
+[10:33] mtsai: ...
+[10:34] it-winter: what
+[10:35] mtsai: nothing. probably nothing. I'll check Theo's notes later
+[15:50] it-winter: @bhaldane any chance P2 gets relabelled before I write all this up
+[16:02] bhaldane: tracer's in the Science building and the Science building is where the skuas are. next week
+
+---- 2026-10-12 ----
+[20:10] it-winter: 16 days to the flight. starting the handover doc tonight. if anyone has "things the next IT person should know", send them
+[20:11] lferreira: the freezer
+[20:11] bhaldane: the freezer
+[20:12] jpike: the melt pond. I have video
+[20:13] lferreira: and Ticket
+[20:13] it-winter: the penguin or
+[20:13] lferreira: yes
+[20:14] mtsai: honestly? read Ingrid's. all of it. then read Theo's again
+[20:15] rachebe: and the Handbook is updated for the new season. link is the same
