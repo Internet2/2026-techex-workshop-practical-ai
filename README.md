@@ -8,6 +8,6 @@ without asking or crediting.
 
 [Workshop handouts (Google Doc)](https://docs.google.com/document/d/1u9EmYwBzD1AfWWWnoyIdYho1vbx2NbBQGj2eL-_xY-Q/edit?usp=sharing)
 
-Clone this repository, open your coding agent inside `lab-1-winterover/`, and
-follow the facilitators. The lab is deliberately undocumented here; working
-out what is in the folder is part of it.
+## Tutorial Links
+
+- [Karpathy's LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
