@@ -1,0 +1,18 @@
+asset,type,location,serial,installed,notes,last_updated_by,last_updated
+aurora,hypervisor 2U,comms rack U10-11,AUR-2U-00419,2021-12,Runs ldap-01 dns-01 wiki-01 tickets-01 snowdrift-01,ihalvorsen,2024-06-15
+icebox,NAS 4-bay RAID-5,comms rack U6-7,IBX-4B-1182,2020-02,Science staging + crew share. Nightly sync to penguin,ihalvorsen,2024-06-15
+icebox bay 1,3.5in HDD 16TB,icebox,WX-7702,2022-12,,ihalvorsen,2024-06-15
+icebox bay 2,3.5in HDD 16TB,icebox,WX-7721,2022-12,,ihalvorsen,2024-06-15
+icebox bay 3,3.5in HDD 16TB,icebox,WX-7731,2022-12,,ihalvorsen,2024-06-15
+icebox bay 4,3.5in HDD 16TB,icebox,WX-7745,2022-12,,ihalvorsen,2024-06-15
+shelf drive,3.5in HDD 16TB,shelf above comms rack (antistatic bag),WX-7714,,SPARE (cold). Same model as bays,ihalvorsen,2024-06-15
+penguin,NAS 2-bay RAID-1,Science building rack,PNG-2B-0771,2021-12,Backup target. Science building circuit,ihalvorsen,2024-06-15
+sw-core-1,48-port switch,comms rack U20,SWC-48-2290,2021-12,,ihalvorsen,2024-06-15
+sw-core-1 spare,48-port switch,comms cage shelf 2 (boxed),SWC-48-2291,,Never powered on,ihalvorsen,2024-06-15
+ups-comms-1,UPS 3 kVA,comms rack U1-2,UPS-3K-0057,2021-12,Original batteries. ~30 min runtime,ihalvorsen,2024-06-15
+vsat-1 modem,satellite modem,comms rack U15,PLK-MDM-4410,2023-01,PolarLink managed,ihalvorsen,2024-06-15
+vsat-1 dish,2.4 m Ku-band dish,comms building roof,PLK-ANT-2400-18,2019-01,Nominal az 357.4 el 8.1,ihalvorsen,2024-06-15
+vsat-2 dish,1.2 m Ku-band dish,pad 80 m east of comms,PLK-ANT-1200-07,2019-01,Backup,ihalvorsen,2024-06-15
+bergy,laser printer,galley corridor,PRT-ML-5531,2020-02,Jams when cold. Paper in sauna anteroom,ihalvorsen,2024-06-15
+growler,laser printer,Science building,PRT-ML-5532,2020-02,,ihalvorsen,2024-06-15
+wap-01..wap-06,Wi-Fi access points,various,see IP plan,2021-12,,ihalvorsen,2024-06-15
