@@ -6,7 +6,7 @@ without asking or crediting.
 
 ## Slides
 
-[Workshop slide deck (PDF)](TX-AI-Workshop.pdf)
+[Workshop slide deck, part 2 (PDF)](TX-AI-Workshop-part2.pdf)
 
 ## Handouts
 
